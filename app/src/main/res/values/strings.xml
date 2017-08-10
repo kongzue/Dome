@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dome</string>
+    <string name="regist_read_agreement">登录或注册代表您同意<u>《用户协议》</u></string>
+</resources>
