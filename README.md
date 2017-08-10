@@ -7,8 +7,8 @@
 服务采用Bmob服务端架构，快速集成开发。
 ![界面截屏](http://upload-images.jianshu.io/upload_images/1976622-ffc82e6473a3dea0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## On Github
-https://github.com/kongzue/Dome
+## On Jianshu
+http://www.jianshu.com/p/2a98ac3dd41a
 
 ## 开源协议
 ```
