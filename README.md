@@ -12,7 +12,7 @@ http://www.jianshu.com/p/2a98ac3dd41a
 
 ## 开源协议
 ```
-   Copyright Kongzue Dialog
+   Copyright Kongzue Dome
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
